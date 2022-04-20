@@ -1,0 +1,23 @@
+.header{
+
+}
+.header__container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+width: 100%;
+background-color: white;
+.menu__list{
+    display: flex;
+    }
+.menu__link{
+    padding: 0px 15px;
+}
+a{
+    color: rgb(207, 64, 64);
+    text-decoration: none;
+}
+
+}
+
